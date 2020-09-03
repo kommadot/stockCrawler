@@ -5,7 +5,7 @@
 **python dependency**
 
 - Bs4
-- Bumpy
+- Numpy
 - Pandas
 - Requests
 - Lxml
